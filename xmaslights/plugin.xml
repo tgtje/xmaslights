@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Xmaslights" lan="" version="1.0" date="2015-11-12" compatibility="2.0" installRequired="true" >
+	<author name="Tgtje" url="tgtje.nl" />
+	<summary lan="">Christmas cord</summary>
+	<description lan="">A Christmas cord with lights and some snow</description>
+	<keywords>
+		<word>christmas</word>
+		<word>lights</word>
+	</keywords>
+	<category>misc</category>
+	<copyright>Tgtje 2015</copyright>
+	
+</e107Plugin>
